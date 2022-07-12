@@ -5,28 +5,29 @@ Nama     : Antini permatasari<br>
 NIM      : 312010095<br>
 kelas    : TI.20.B.1<br>
 
-# Praktikum 14: Pagination dan Pencarian
+# Praktikum 14
+# Pagination dan Pencarian
 
 # Membuat Pagination
 
 Pagination merupakan sebuah fitur web yang digunakan untuk membatasi tampilan data agar tidak
-terlalu panjang dan lebih rapih. 
+terlalu panjang dan lebih rapih.<br>
 
 1.Pada Codeigniter 4, fungsi pagination sudah tersedia pada Library sehingga cukup
-mudah menggunakannya.
+mudah menggunakannya.<br>
 
 selanjutnya Untuk membuat pagination, buka Kembali Controller Artikel,lalu kemudian modifikasi
-kode pada method admin_index seperti berikut.
+kode pada method admin_index seperti berikut.<br>
 
 ![Gambar](Gambar/Gambar1.png)
 
 2.Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut
-dibawah deklarasi tabel data.
+dibawah deklarasi tabel data.<br>
 
 ![Gambar](Gambar/Gambar2.png)
 
 Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat
-hasilnya.
+hasilnya.<br>
 
 ![Gambar](Gambar/Gambar3.png)
 
